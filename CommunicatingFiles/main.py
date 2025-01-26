@@ -1,0 +1,3 @@
+from addons import *
+
+LagBruker()
